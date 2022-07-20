@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#----------------------------------------------------------------------------
+# Created By  : William Robert Evans [wre]
+# Created Date: 20/07/2022
+# version ='1.0'
+# ---------------------------------------------------------------------------
+""" Description, to be added"""
+# ---------------------------------------------------------------------------
 
 from sklearn.neural_network import MLPRegressor
 from sklearn.model_selection import train_test_split
