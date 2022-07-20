@@ -14,6 +14,11 @@ Basic suite of tools for generating and using neural networks in ROS, built with
   - [processedBagCombinerBatch.py](#processedbagcombinerbatchpy)
 
 ## General setup
+### Dependancies
+Scikit-Learn
+Pandas
+Numpy
+Joblib
 
 ## avoidance Dynamic/Static.py
 
