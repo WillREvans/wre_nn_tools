@@ -10,8 +10,8 @@ Basic suite of tools for generating and using neural networks in ROS, built with
   - [compareCorrectAndPredictedValues.py](#comparecorrectandpredictedvaluespy)
   - [modelLearningProcessVisualizer.py](#modellearningprocessvisualizerpy)
 - Other tools
-  - [modelTrainTestAndDumpBatch.py](modeltraintestanddumpbatchpy)
-  - [processedBagCombinerBatch.py](processedbagcombinerbatchpy)
+  - [modelTrainTestAndDumpBatch.py](#modeltraintestanddumpbatchpy)
+  - [processedBagCombinerBatch.py](#processedbagcombinerbatchpy)
 
 ## General setup
 
